@@ -1,0 +1,11 @@
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\bin\Debug\readingtextfile.exe.config
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\bin\Debug\readingtextfile.exe
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\bin\Debug\readingtextfile.pdb
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\obj\Debug\readingtextfile.csprojResolveAssemblyReference.cache
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\obj\Debug\readingtextfile.Form1.resources
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\obj\Debug\readingtextfile.Properties.Resources.resources
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\obj\Debug\readingtextfile.csproj.GenerateResource.cache
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\obj\Debug\readingtextfile.csproj.CoreCompileInputs.cache
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\obj\Debug\readingtextfile.exe
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\obj\Debug\readingtextfile.pdb
+c:\users\efortes\source\repos\readingtextfile\readingtextfile\bin\Debug\states.txt
